@@ -7,7 +7,7 @@
 <p>
   <img src="https://i.imgflip.com/65efzo.gif" height="200" align="right" />
   🌱 Passionate about Python development and solving real-world problems.<br>
-  🚀 Currently learning <b>Full Stack (Python + Django + Flask + HTML/CSS/JS)</b><br>
+  🚀 Currently learning <b>Full Stack (Python + Flask + MySQL + HTML/CSS/JS)</b><br>
   🎯 Focus: Full Stack development, APIs, and scalable web apps<br>
   📍 From India
 </p>
@@ -50,4 +50,4 @@
 
 ## 🚀 Let's Connect  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samhita200328@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhita-balantrapu-78bb05348/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhita-balantrapu/)  
