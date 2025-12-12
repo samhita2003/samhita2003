@@ -59,8 +59,69 @@
 ![snake animation](https://raw.githubusercontent.com/samhita2003/samhita2003/main/dist/snake.svg)
 
 
+### 📊 Languages Usage (Custom Chart)
+
+<img src="https://quickchart.io/chart?c={
+  type:'doughnut',
+  data:{
+    labels:['Python','JavaScript','HTML','CSS','Other'],
+    datasets:[{
+      data:[60,40,10,5,5]
+    }]
+  },
+  options:{
+    plugins:{
+      legend:{
+        labels:{
+          color:'white'
+        }
+      }
+    }
+  }
+}" width="380">
 
 
 
 
+<h1 align="center">Hi 👋, I'm Samhita Balantrapu</h1>
+<h3 align="center">Aspiring Python Full Stack Developer</h3>
+
+---
+
+### 💫 About Me  
+🌱 Passionate about Python development and solving real-world problems.  
+🚀 Currently learning **Full Stack (Python + Django + Flask + HTML/CSS/JS)**  
+🎯 Focus: Backend development, APIs, and scalable web apps  
+📍 From India  
+
+---
+
+
+
+---
+
+
+
+
+---
+
+## 📊 Languages Usage (Custom Chart)
+
+
+
+---
+
+## 🐍 Contribution Animation (Snake)
+
+![snake animation](https://raw.githubusercontent.com/samhita2003/samhita2003/main/dist/snake.svg)
+
+---
+
+## 🎮 Pac-Man Eating Contributions  
+(Coming soon after GitHub supports custom paths)
+
+---
+
+## 🚀 Let's Connect  
+📫 Reach me at **your email** (add your email here if you want)  
 
