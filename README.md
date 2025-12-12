@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Samhita Balantrapu and I'm a learning to become a Python Full Stack Developer, focusing on Python, Flask, and backend development, from India</h2>
+<h2 align="left">Hi 👋! My name is Samhita Balantrapu and I'm learning to become a Python Full Stack Developer, focusing on Python, Flask, and backend development, from India</h2>
 
 ###
 
