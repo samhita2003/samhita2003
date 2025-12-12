@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/samhita2003/samhita2003/tree/main/.github/workflows/snake.yml)
+![snake animation](https://raw.githubusercontent.com/samhita2003/samhita2003/main/dist/snake.svg)
 
 
 ###
