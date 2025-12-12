@@ -1,4 +1,5 @@
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -7,8 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
@@ -17,13 +22,7 @@ jobs:
           github_user_name: samhita2003
           outputs: dist/snake.svg
 
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/snake.svg
-
-      - name: Push Snake Animation
+      - name: Commit and Push Snake Animation
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
