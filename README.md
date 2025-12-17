@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samhita Balantrapu</h1>
 <h3 align="center">Aspiring Python Full Stack Developer</h3>
 
-<hr>
-
 ### 💫 About Me
 <p>
   <img src="https://i.imgflip.com/65efzo.gif" height="200" align="right" />
