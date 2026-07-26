@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samhita Balantrapu</h1>
-<h3 align="center">Aspiring Python Full Stack Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 ### 💫 About Me
 <p>
   <img src="https://i.imgflip.com/65efzo.gif" height="200" align="right" />
-  🌱 Passionate about Python development and solving real-world problems.<br>
+  🌱 Passionate about web development and solving real-world problems.<br>
   🚀 Currently learning <b>Full Stack (Python + Flask + MySQL + HTML/CSS/JS)</b><br>
   🎯 Focus: Full Stack development, APIs, and scalable web apps<br>
   📍 From India
